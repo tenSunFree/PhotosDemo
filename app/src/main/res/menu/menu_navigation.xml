@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="房間"
+        android:icon="@drawable/ic_baseline_home_24" />
+
+    <item android:id="@+id/photos"
+        android:title="動態"
+        android:icon="@drawable/ic_dynamic_24" />
+
+    <item android:id="@+id/search"
+        android:title="發現"
+        android:icon="@drawable/ic_discover_24" />
+
+    <item android:id="@+id/favorites"
+        android:title="訊息"
+        android:icon="@drawable/ic_message_24" />
+
+    <item android:id="@+id/more"
+        android:title="我"
+        android:icon="@drawable/ic_mine_24" />
+</menu>
